@@ -15,3 +15,29 @@
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
+.bag{
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 40px 50px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px
+}
+.bag img{
+    padding-bottom: 15px;
+}
+.beauty {
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 40px 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 20px; 
+}
+.beauty img{
+    padding-bottom: 15px    ;
+}
+.shoes{
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 40px 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 20px;
+}
